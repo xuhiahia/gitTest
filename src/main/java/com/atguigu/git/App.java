@@ -14,5 +14,6 @@ public class App
         System.out.println( "Hello World!3" );
         System.out.println( "master World!" );
         System.out.println( "hot-fix World!1" );
+        System.out.println( "push test" );
     }
 }
